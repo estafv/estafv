@@ -1,5 +1,7 @@
-# Hello i'm Esta
+# > whoami
 
-I'm an cybersecurity student with a passion for learning how systems, networks, and security work.
+Hi, I'm Esta.
 
-I'm using GitHub to document what I learn, share projects, and track my progress as I continue growing in cybersecurity.
+I'm an aspiring cybersecurity student focused on building a strong foundation in networking, Linux, Windows, scripting, and ethical hacking.
+
+This GitHub is my digital notebook. A place where I share projects, scripts, notes, and everything I learn throughout my cybersecurity journey.
