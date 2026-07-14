@@ -1,4 +1,4 @@
-# Hey, I'm Esta.
+# Helllooo, I'm Esta
 
 I'm an incoming cybersecurity student with a passion for learning how systems, networks, and security work.
 
